@@ -9,7 +9,7 @@ const Apps = ({ item }) => {
 
   return (
     <Link to={`/${id}`}>
-      <div className="card bg-base-100  shadow-sm border-1 border-gray-300 p-5 cursor-pointer">
+      <div className="card bg-base-100  shadow-sm border-1 border-gray-300 p-5 cursor-pointer transition-all duration-300 hover:scale-[1.015] hover:-translate-y-0.5 hover:shadow-lg">
         <figure className=" bg-yellow-200 p-5 rounded-lg">
           <img src={image} alt="Shoes" className="rounded-xl" />
         </figure>

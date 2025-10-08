@@ -137,6 +137,14 @@ const HomeAppDetails = () => {
         <h1 className="text-center text-3xl font-bold py-10">Description</h1>
         <p className="text-center px-50 py-10">{description}</p>
       </div>
+
+      <div className="flex justify-center pb-10 ">
+        <a href={"/"}>
+          <button className="btn bg-[linear-gradient(125.07deg,#632EE3,#9F62F2_100%)] text-white">
+            Back to Home
+          </button>
+        </a>
+      </div>
     </>
   );
 };

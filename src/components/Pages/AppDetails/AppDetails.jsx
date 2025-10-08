@@ -1,4 +1,4 @@
-import { Download, HandHeart, Star } from "lucide-react";
+import { Download, HandHeart, Link, Star } from "lucide-react";
 import React, { useState } from "react";
 import { useLoaderData, useParams } from "react-router";
 import { ToastContainer, toast } from "react-toastify";
@@ -51,8 +51,8 @@ const AppDetails = () => {
     size,
   } = singleApp;
   return (
-    <div>
-      <div className="flex justify-center gap-20 max-w-6xl mx-auto py-20 border-b border-gray-500">
+    <div className="">
+      <div className="flex cursor-pointer justify-center gap-20 max-w-6xl mx-auto py-20 border-b border-gray-500 transition-all duration-300 hover:scale-[1.015] hover:-translate-y-0.5 hover:shadow-md">
         <div className="bg-slate-300 p-10 rounded-md">
           <img className="w-50 rounded-sm" src={image} alt="" />
         </div>
@@ -83,7 +83,7 @@ const AppDetails = () => {
           </div>
           <button
             onClick={handleBtn}
-            className={`btn px-6 py-3 rounded-md text-white font-semibold transition ${
+            className={`btn px-6 cursor-pointer py-3 rounded-md text-white font-semibold transition ${
               install
                 ? "bg-gray-400"
                 : "bg-[rgba(0,211,144,1)] hover:bg-green-500"
@@ -125,6 +125,13 @@ const AppDetails = () => {
       <div>
         <h1 className="text-center text-3xl font-bold py-10">Description</h1>
         <p className="text-center px-50 py-10">{description}</p>
+      </div>
+      <div className="flex justify-center pb-10 ">
+        <a href={"/allApps"}>
+          <button className="btn bg-[linear-gradient(125.07deg,#632EE3,#9F62F2_100%)] text-white transition-all duration-300 hover:scale-[1.015] hover:-translate-y-0.5 hover:shadow-md">
+            Back to App
+          </button>
+        </a>
       </div>
     </div>
   );
