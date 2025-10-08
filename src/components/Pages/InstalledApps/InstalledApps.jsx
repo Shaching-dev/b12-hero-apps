@@ -61,13 +61,15 @@ const InstalledApps = () => {
           </details>
         </div>
 
-        {installedApp.map((app) => (
-          <ShowInstalled
-            key={app.id}
-            app={app}
-            handleUninstall={handleUninstall}
-          />
-        ))}
+        <div className="">
+          {installedApp.map((app) => (
+            <ShowInstalled
+              key={app.id}
+              app={app}
+              handleUninstall={handleUninstall}
+            />
+          ))}
+        </div>
 
         {installedApp.length === 0 && (
           <p className="text-center py-20 text-gray-600 font-medium">

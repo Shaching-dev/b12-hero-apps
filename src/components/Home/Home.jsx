@@ -19,15 +19,19 @@ const Home = () => {
           ideas into digital experiences that truly make an impact.
         </p>
         <div className="flex justify-center gap-10 py-5">
-          <button className="btn">
-            <img className="w-7" src={"/google-play.png"} alt="" />
-            Google Play
-          </button>
+          <a href="/allApps">
+            <button className="btn">
+              <img className="w-7" src={"/google-play.png"} alt="" />
+              Google Play
+            </button>
+          </a>
 
-          <button className="btn">
-            <img className="w-7" src={"/apps-icon.png"} alt="" />
-            App Store
-          </button>
+          <a href="/installed">
+            <button className="btn">
+              <img className="w-7" src={"/apps-icon.png"} alt="" />
+              App Store
+            </button>
+          </a>
         </div>
         <span className="flex justify-center px-20 md:px-0 lg:px-0">
           <img className="w-150" src={"/hero.png"} alt="" />

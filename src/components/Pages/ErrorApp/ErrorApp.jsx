@@ -3,8 +3,11 @@ import React from "react";
 const ErrorApp = () => {
   return (
     <div>
-      <div className="flex justify-center">
-        <img src={"/App-Error.png"} alt="erroe" />
+      <div className="flex items-center justify-center flex-col">
+        <img className="w-80" src={"/App-Error.png"} alt="erroe" />
+        <h1 className="text-3xl text-gray-400 font-semibold py-5">
+          Apps Not Found
+        </h1>
       </div>
       <div className="flex justify-center py-10 gap-20 ">
         <a href="/">

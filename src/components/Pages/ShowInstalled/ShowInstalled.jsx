@@ -6,12 +6,11 @@ const ShowInstalled = ({ app, handleUninstall }) => {
 
   return (
     <>
-      <div className="flex justify-between border border-gray-300 rounded-[10px] items-center max-w-6xl mx-auto p-10 px-20 my-10 bg-white shadow-lg">
-        <div className="flex gap-20 items-center">
+      <div className="flex  justify-between border  border-gray-300 rounded-[10px] items-center max-w-6xl mx-auto p-10 px-20 my-10 bg-white shadow-lg">
+        <div className="flex flex-col md:flex-row gap-20 items-center">
           <div>
             <img className="w-20 rounded-lg" src={image} alt="" />
           </div>
-
           <div>
             <h2 className="py-5">{title}</h2>
             <div className="flex gap-5">
