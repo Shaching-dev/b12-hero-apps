@@ -1,0 +1,146 @@
+[
+  {
+    "image": "https://i.ibb.co.com/MxxQSCgR/weather.webp",
+    "title": "Weather Pro",
+    "companyName": "WeatherTech Inc",
+    "id": 1,
+    "description": "Get detailed weather forecasts with hourly and 10-day predictions, real-time severe weather alerts, interactive radar maps, and personalized location-based updates. Stay prepared with precipitation probability, UV index, wind speed, and humidity data for any location worldwide.",
+    "size": 45.2,
+    "reviews": 12500,
+    "ratingAvg": 4.3,
+    "downloads": 2500000,
+    "ratings": [
+      { "name": "1 star", "count": 625 },
+      { "name": "2 star", "count": 1250 },
+      { "name": "3 star", "count": 2500 },
+      { "name": "4 star", "count": 3750 },
+      { "name": "5 star", "count": 4375 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/Hf02f21Z/finance-tracker.jpg",
+    "title": "Finance Tracker",
+    "companyName": "MoneyMatters LLC",
+    "id": 2,
+    "description": "Comprehensive financial management tool that helps you create budgets, track expenses across categories, set savings goals, monitor investments, and generate detailed spending reports. Connect your bank accounts for automatic transaction tracking and receive bill payment reminders.",
+    "size": 28.7,
+    "reviews": 8900,
+    "ratingAvg": 4.7,
+    "downloads": 1800000,
+    "ratings": [
+      { "name": "1 star", "count": 178 },
+      { "name": "2 star", "count": 445 },
+      { "name": "3 star", "count": 890 },
+      { "name": "4 star", "count": 2225 },
+      { "name": "5 star", "count": 5162 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/Fb4dPFds/fitness.webp",
+    "title": "Fitness Coach",
+    "companyName": "HealthFirst Studios",
+    "id": 3,
+    "description": "Your personal fitness companion offering customized workout plans for weight loss, muscle building, or general fitness. Includes exercise demonstrations, progress tracking, calorie counter, and integration with popular fitness wearables. Suitable for beginners to advanced athletes.",
+    "size": 152.8,
+    "reviews": 23400,
+    "ratingAvg": 4.1,
+    "downloads": 3200000,
+    "ratings": [
+      { "name": "1 star", "count": 2340 },
+      { "name": "2 star", "count": 3510 },
+      { "name": "3 star", "count": 4680 },
+      { "name": "4 star", "count": 5850 },
+      { "name": "5 star", "count": 7020 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/LdK7ypQq/recipe.webp",
+    "title": "Recipe Master",
+    "companyName": "Culinary Arts Co",
+    "id": 4,
+    "description": "Discover over 50,000 recipes with detailed step-by-step cooking instructions, video tutorials, and adjustable serving sizes. Create shopping lists, save favorite recipes, and get personalized meal recommendations based on your dietary preferences and available ingredients.",
+    "size": 87.3,
+    "reviews": 15600,
+    "ratingAvg": 4.5,
+    "downloads": 2100000,
+    "ratings": [
+      { "name": "1 star", "count": 468 },
+      { "name": "2 star", "count": 780 },
+      { "name": "3 star", "count": 1560 },
+      { "name": "4 star", "count": 3900 },
+      { "name": "5 star", "count": 8892 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/BVzjtdZ9/language.webp",
+    "title": "Language Tutor",
+    "companyName": "Global Education Inc",
+    "id": 5,
+    "description": "Learn 30+ languages through interactive lessons, speech recognition technology, and real-time pronunciation feedback. Practice with native speakers, track your progress, and master vocabulary with spaced repetition system. Perfect for travel, business, or personal enrichment.",
+    "size": 203.5,
+    "reviews": 43200,
+    "ratingAvg": 4.8,
+    "downloads": 5500000,
+    "ratings": [
+      { "name": "1 star", "count": 864 },
+      { "name": "2 star", "count": 1296 },
+      { "name": "3 star", "count": 3456 },
+      { "name": "4 star", "count": 8640 },
+      { "name": "5 star", "count": 28944 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/1JvCS4pF/photo-editor.webp",
+    "title": "Photo Editor Pro",
+    "companyName": "Creative Tools Ltd",
+    "id": 6,
+    "description": "Professional-grade photo editing suite with advanced tools including layers, curves, selective adjustments, and hundreds of filters. Remove objects, adjust lighting, apply artistic effects, and create stunning compositions. Supports RAW files and offers batch processing capabilities.",
+    "size": 76.9,
+    "reviews": 28700,
+    "ratingAvg": 4.2,
+    "downloads": 3800000,
+    "ratings": [
+      { "name": "1 star", "count": 2870 },
+      { "name": "2 star", "count": 4305 },
+      { "name": "3 star", "count": 5740 },
+      { "name": "4 star", "count": 8610 },
+      { "name": "5 star", "count": 7175 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/nMPpSnb6/sleep.webp",
+    "title": "Sleep Tracker",
+    "companyName": "Wellness Labs",
+    "id": 7,
+    "description": "Comprehensive sleep analysis using sound monitoring and movement detection to track sleep cycles, snoring patterns, and sleep quality. Receive personalized recommendations for improving sleep hygiene, set smart alarms for optimal wake times, and monitor long-term sleep trends.",
+    "size": 34.1,
+    "reviews": 9800,
+    "ratingAvg": 3.9,
+    "downloads": 1200000,
+    "ratings": [
+      { "name": "1 star", "count": 1470 },
+      { "name": "2 star", "count": 1960 },
+      { "name": "3 star", "count": 2450 },
+      { "name": "4 star", "count": 1960 },
+      { "name": "5 star", "count": 1960 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/zhb7WC9w/travel.webp",
+    "title": "Travel Planner",
+    "companyName": "Adventure Seekers",
+    "id": 8,
+    "description": "All-in-one travel organizer that helps you plan complete itineraries, book accommodations, discover local attractions, and get insider tips. Includes offline maps, currency converter, language phrasebook, and real-time flight status updates for stress-free travel planning.",
+    "size": 62.4,
+    "reviews": 16700,
+    "ratingAvg": 4.6,
+    "downloads": 1950000,
+    "ratings": [
+      { "name": "1 star", "count": 334 },
+      { "name": "2 star", "count": 501 },
+      { "name": "3 star", "count": 1336 },
+      { "name": "4 star", "count": 4175 },
+      { "name": "5 star", "count": 10354 }
+    ]
+  }
+]

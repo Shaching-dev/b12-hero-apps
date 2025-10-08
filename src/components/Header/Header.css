@@ -1,0 +1,14 @@
+nav a {
+  margin-left: 20px;
+}
+
+nav a.active {
+  text-decoration: underline;
+  font-weight: 600;
+  color: salmon;
+}
+
+nav a.active:hover {
+  font-weight: 900;
+  transition: 5000ms;
+}

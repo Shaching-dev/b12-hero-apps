@@ -1,0 +1,506 @@
+[
+  {
+    "image": "https://i.ibb.co.com/MxxQSCgR/weather.webp",
+    "title": "Weather Pro",
+    "companyName": "WeatherTech Inc",
+    "id": 1,
+    "description": "Get detailed weather forecasts with hourly and 10-day predictions, real-time severe weather alerts, interactive radar maps, and personalized location-based updates. Stay prepared with precipitation probability, UV index, wind speed, and humidity data for any location worldwide.",
+    "size": 45.2,
+    "reviews": 12500,
+    "ratingAvg": 4.3,
+    "downloads": 2500000,
+    "ratings": [
+      { "name": "1 star", "count": 625 },
+      { "name": "2 star", "count": 1250 },
+      { "name": "3 star", "count": 2500 },
+      { "name": "4 star", "count": 3750 },
+      { "name": "5 star", "count": 4375 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/Hf02f21Z/finance-tracker.jpg",
+    "title": "Finance Tracker",
+    "companyName": "MoneyMatters LLC",
+    "id": 2,
+    "description": "Comprehensive financial management tool that helps you create budgets, track expenses across categories, set savings goals, monitor investments, and generate detailed spending reports. Connect your bank accounts for automatic transaction tracking and receive bill payment reminders.",
+    "size": 28.7,
+    "reviews": 8900,
+    "ratingAvg": 4.7,
+    "downloads": 1800000,
+    "ratings": [
+      { "name": "1 star", "count": 178 },
+      { "name": "2 star", "count": 445 },
+      { "name": "3 star", "count": 890 },
+      { "name": "4 star", "count": 2225 },
+      { "name": "5 star", "count": 5162 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/Fb4dPFds/fitness.webp",
+    "title": "Fitness Coach",
+    "companyName": "HealthFirst Studios",
+    "id": 3,
+    "description": "Your personal fitness companion offering customized workout plans for weight loss, muscle building, or general fitness. Includes exercise demonstrations, progress tracking, calorie counter, and integration with popular fitness wearables. Suitable for beginners to advanced athletes.",
+    "size": 152.8,
+    "reviews": 23400,
+    "ratingAvg": 4.1,
+    "downloads": 3200000,
+    "ratings": [
+      { "name": "1 star", "count": 2340 },
+      { "name": "2 star", "count": 3510 },
+      { "name": "3 star", "count": 4680 },
+      { "name": "4 star", "count": 5850 },
+      { "name": "5 star", "count": 7020 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/LdK7ypQq/recipe.webp",
+    "title": "Recipe Master",
+    "companyName": "Culinary Arts Co",
+    "id": 4,
+    "description": "Discover over 50,000 recipes with detailed step-by-step cooking instructions, video tutorials, and adjustable serving sizes. Create shopping lists, save favorite recipes, and get personalized meal recommendations based on your dietary preferences and available ingredients.",
+    "size": 87.3,
+    "reviews": 15600,
+    "ratingAvg": 4.5,
+    "downloads": 2100000,
+    "ratings": [
+      { "name": "1 star", "count": 468 },
+      { "name": "2 star", "count": 780 },
+      { "name": "3 star", "count": 1560 },
+      { "name": "4 star", "count": 3900 },
+      { "name": "5 star", "count": 8892 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/BVzjtdZ9/language.webp",
+    "title": "Language Tutor",
+    "companyName": "Global Education Inc",
+    "id": 5,
+    "description": "Learn 30+ languages through interactive lessons, speech recognition technology, and real-time pronunciation feedback. Practice with native speakers, track your progress, and master vocabulary with spaced repetition system. Perfect for travel, business, or personal enrichment.",
+    "size": 203.5,
+    "reviews": 43200,
+    "ratingAvg": 4.8,
+    "downloads": 5500000,
+    "ratings": [
+      { "name": "1 star", "count": 864 },
+      { "name": "2 star", "count": 1296 },
+      { "name": "3 star", "count": 3456 },
+      { "name": "4 star", "count": 8640 },
+      { "name": "5 star", "count": 28944 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/1JvCS4pF/photo-editor.webp",
+    "title": "Photo Editor Pro",
+    "companyName": "Creative Tools Ltd",
+    "id": 6,
+    "description": "Professional-grade photo editing suite with advanced tools including layers, curves, selective adjustments, and hundreds of filters. Remove objects, adjust lighting, apply artistic effects, and create stunning compositions. Supports RAW files and offers batch processing capabilities.",
+    "size": 76.9,
+    "reviews": 28700,
+    "ratingAvg": 4.2,
+    "downloads": 3800000,
+    "ratings": [
+      { "name": "1 star", "count": 2870 },
+      { "name": "2 star", "count": 4305 },
+      { "name": "3 star", "count": 5740 },
+      { "name": "4 star", "count": 8610 },
+      { "name": "5 star", "count": 7175 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/nMPpSnb6/sleep.webp",
+    "title": "Sleep Tracker",
+    "companyName": "Wellness Labs",
+    "id": 7,
+    "description": "Comprehensive sleep analysis using sound monitoring and movement detection to track sleep cycles, snoring patterns, and sleep quality. Receive personalized recommendations for improving sleep hygiene, set smart alarms for optimal wake times, and monitor long-term sleep trends.",
+    "size": 34.1,
+    "reviews": 9800,
+    "ratingAvg": 3.9,
+    "downloads": 1200000,
+    "ratings": [
+      { "name": "1 star", "count": 1470 },
+      { "name": "2 star", "count": 1960 },
+      { "name": "3 star", "count": 2450 },
+      { "name": "4 star", "count": 1960 },
+      { "name": "5 star", "count": 1960 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/zhb7WC9w/travel.webp",
+    "title": "Travel Planner",
+    "companyName": "Adventure Seekers",
+    "id": 8,
+    "description": "All-in-one travel organizer that helps you plan complete itineraries, book accommodations, discover local attractions, and get insider tips. Includes offline maps, currency converter, language phrasebook, and real-time flight status updates for stress-free travel planning.",
+    "size": 62.4,
+    "reviews": 16700,
+    "ratingAvg": 4.6,
+    "downloads": 1950000,
+    "ratings": [
+      { "name": "1 star", "count": 334 },
+      { "name": "2 star", "count": 501 },
+      { "name": "3 star", "count": 1336 },
+      { "name": "4 star", "count": 4175 },
+      { "name": "5 star", "count": 10354 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/39vBG7Sk/calm-apps.webp",
+    "title": "Calm",
+    "companyName": "Calm.com",
+    "id": 11,
+    "description": "Comprehensive meditation and sleep app featuring guided sessions, sleep stories narrated by celebrities, breathing exercises, and relaxing music. Reduce stress and anxiety with daily meditations, track your mindfulness journey, and improve your overall mental wellbeing.",
+    "size": 145.3,
+    "reviews": 89000,
+    "ratingAvg": 4.8,
+    "downloads": 50000000,
+    "ratings": [
+      { "name": "1 star", "count": 1780 },
+      { "name": "2 star", "count": 2670 },
+      { "name": "3 star", "count": 7120 },
+      { "name": "4 star", "count": 17800 },
+      { "name": "5 star", "count": 59630 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/HTTv7Jg3/shazam.webp",
+    "title": "Shazam",
+    "companyName": "Apple Inc.",
+    "id": 12,
+    "description": "Instantly identify music playing around you, view synchronized lyrics, watch music videos, and discover new artists based on your taste. Connect with Apple Music or Spotify to save and stream your identified songs, and explore detailed artist biographies and discographies.",
+    "size": 56.7,
+    "reviews": 45000,
+    "ratingAvg": 4.6,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 2250 },
+      { "name": "2 star", "count": 3375 },
+      { "name": "3 star", "count": 6750 },
+      { "name": "4 star", "count": 13500 },
+      { "name": "5 star", "count": 20125 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/5XTvLWry/pinterest.webp",
+    "title": "Pinterest",
+    "companyName": "Pinterest",
+    "id": 13,
+    "description": "Visual discovery engine for finding ideas like recipes, home and style inspiration, DIY projects, and more. Create personalized boards to save and organize your favorite pins, get recommendations based on your interests, and shop products directly from inspiring content.",
+    "size": 89.2,
+    "reviews": 120000,
+    "ratingAvg": 4.4,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 6000 },
+      { "name": "2 star", "count": 9000 },
+      { "name": "3 star", "count": 18000 },
+      { "name": "4 star", "count": 36000 },
+      { "name": "5 star", "count": 51000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/twPY9Jg5/discord.png",
+    "title": "Discord",
+    "companyName": "Discord Inc.",
+    "id": 14,
+    "description": "All-in-one voice, video, and text communication platform for communities and friends. Create or join servers with topic-based channels, share screens during calls, stream games, and moderate your community with advanced permission settings and moderation tools.",
+    "size": 112.5,
+    "reviews": 85000,
+    "ratingAvg": 4.3,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 4250 },
+      { "name": "2 star", "count": 6375 },
+      { "name": "3 star", "count": 12750 },
+      { "name": "4 star", "count": 25500 },
+      { "name": "5 star", "count": 36125 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/3YpNG1ZJ/tiktok.webp",
+    "title": "TikTok",
+    "companyName": "TikTok Ltd.",
+    "id": 15,
+    "description": "Leading destination for short-form mobile videos offering entertainment, education, and creative expression. Create and edit videos with special effects, filters, and music. Discover personalized content through AI-powered recommendations and join viral trends and challenges.",
+    "size": 234.8,
+    "reviews": 95000,
+    "ratingAvg": 4.2,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 9500 },
+      { "name": "2 star", "count": 14250 },
+      { "name": "3 star", "count": 19000 },
+      { "name": "4 star", "count": 28500 },
+      { "name": "5 star", "count": 23750 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/Z69d1hcp/zoom.webp",
+    "title": "Zoom",
+    "companyName": "Zoom Video Communications",
+    "id": 16,
+    "description": "Enterprise-grade video conferencing with reliable cloud platform for video and audio conferencing, collaboration, chat, and webinars. Host meetings with up to 1000 participants, share your screen, record sessions, and use virtual backgrounds for professional presentations.",
+    "size": 178.3,
+    "reviews": 67000,
+    "ratingAvg": 4.5,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 2010 },
+      { "name": "2 star", "count": 3015 },
+      { "name": "3 star", "count": 6030 },
+      { "name": "4 star", "count": 15075 },
+      { "name": "5 star", "count": 40870 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/39SqvK8K/netflix.webp",
+    "title": "Netflix",
+    "companyName": "Netflix, Inc.",
+    "id": 17,
+    "description": "Stream thousands of TV shows, movies, documentaries, and Netflix Originals across all genres. Enjoy personalized recommendations, download content for offline viewing, create multiple profiles for family members, and watch in HD or 4K quality on compatible devices.",
+    "size": 156.9,
+    "reviews": 78000,
+    "ratingAvg": 4.1,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 7800 },
+      { "name": "2 star", "count": 11700 },
+      { "name": "3 star", "count": 15600 },
+      { "name": "4 star", "count": 23400 },
+      { "name": "5 star", "count": 19500 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/JW94PTtc/uber.webp",
+    "title": "Uber",
+    "companyName": "Uber Technologies, Inc.",
+    "id": 18,
+    "description": "Request rides, order food delivery from local restaurants, and earn rewards through one integrated platform. See driver details and real-time arrival estimates, split fares with friends, schedule rides in advance, and choose from various ride options to fit your budget.",
+    "size": 134.2,
+    "reviews": 55000,
+    "ratingAvg": 4.7,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 1650 },
+      { "name": "2 star", "count": 2475 },
+      { "name": "3 star", "count": 4950 },
+      { "name": "4 star", "count": 12375 },
+      { "name": "5 star", "count": 33550 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/p6q6p0KS/airbnb.webp",
+    "title": "Airbnb",
+    "companyName": "Airbnb, Inc.",
+    "id": 19,
+    "description": "Discover and book unique accommodations worldwide including vacation rentals, cabins, beach houses, and unique stays. Read verified guest reviews, communicate directly with hosts, book immersive local experiences, and manage your entire trip itinerary in one place.",
+    "size": 167.4,
+    "reviews": 42000,
+    "ratingAvg": 4.6,
+    "downloads": 100000000,
+    "ratings": [
+      { "name": "1 star", "count": 1260 },
+      { "name": "2 star", "count": 1890 },
+      { "name": "3 star", "count": 3780 },
+      { "name": "4 star", "count": 9450 },
+      { "name": "5 star", "count": 25620 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/PK2Mhh1/loinkedin.webp",
+    "title": "LinkedIn",
+    "companyName": "LinkedIn Corporation",
+    "id": 20,
+    "description": "Professional networking platform to connect with colleagues, discover job opportunities, and stay updated with industry news. Build your professional profile, showcase your skills and experience, join industry groups, and access learning courses to advance your career.",
+    "size": 98.7,
+    "reviews": 38000,
+    "ratingAvg": 4.3,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 2660 },
+      { "name": "2 star", "count": 3990 },
+      { "name": "3 star", "count": 7980 },
+      { "name": "4 star", "count": 13300 },
+      { "name": "5 star", "count": 10070 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/TDrDr0B8/twitch.webp",
+    "title": "Twitch",
+    "companyName": "Twitch Interactive, Inc.",
+    "id": 21,
+    "description": "Live streaming platform primarily for gaming content where you can watch esports tournaments, stream your gameplay, and interact with creators. Subscribe to favorite channels, use chat emotes, support streamers with cheers, and discover new gaming communities.",
+    "size": 145.6,
+    "reviews": 29000,
+    "ratingAvg": 4.2,
+    "downloads": 100000000,
+    "ratings": [
+      { "name": "1 star", "count": 2320 },
+      { "name": "2 star", "count": 3480 },
+      { "name": "3 star", "count": 5800 },
+      { "name": "4 star", "count": 8700 },
+      { "name": "5 star", "count": 8700 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/LXKYX16X/snapchat.webp",
+    "title": "Snapchat",
+    "companyName": "Snap Inc",
+    "id": 22,
+    "description": "Multimedia messaging app to share disappearing photos and videos with friends, use fun filters and lenses, and discover stories from the community. Create personalized Bitmoji avatars, explore Snap Map to see friends' locations, and watch curated content from publishers.",
+    "size": 223.1,
+    "reviews": 63000,
+    "ratingAvg": 3.8,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 12600 },
+      { "name": "2 star", "count": 12600 },
+      { "name": "3 star", "count": 12600 },
+      { "name": "4 star", "count": 12600 },
+      { "name": "5 star", "count": 12600 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/dww8gD8F/waze.webp",
+    "title": "Waze",
+    "companyName": "Waze Mobile",
+    "id": 23,
+    "description": "Community-based traffic and navigation app that provides real-time road information, traffic jams, police sightings, and accidents reported by other drivers. Find the fastest routes based on live traffic conditions, get fuel price alerts, and coordinate drives with friends.",
+    "size": 134.8,
+    "reviews": 47000,
+    "ratingAvg": 4.7,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 1410 },
+      { "name": "2 star", "count": 2115 },
+      { "name": "3 star", "count": 4230 },
+      { "name": "4 star", "count": 10575 },
+      { "name": "5 star", "count": 28670 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/prs3YWBM/soundcloud.webp",
+    "title": "SoundCloud",
+    "companyName": "SoundCloud Limited",
+    "id": 24,
+    "description": "Audio distribution platform and music streaming service that lets you listen to millions of songs from emerging and established artists. Discover underground tracks, create and share playlists, follow artists, and upload your own music to build your audience.",
+    "size": 87.9,
+    "reviews": 34000,
+    "ratingAvg": 4.4,
+    "downloads": 100000000,
+    "ratings": [
+      { "name": "1 star", "count": 1700 },
+      { "name": "2 star", "count": 2550 },
+      { "name": "3 star", "count": 5100 },
+      { "name": "4 star", "count": 10200 },
+      { "name": "5 star", "count": 14450 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/S4fwb6sW/note.webp",
+    "title": "Evernote",
+    "companyName": "Evernote Corporation",
+    "id": 25,
+    "description": "Powerful note-taking and organization app to capture ideas, create to-do lists, save web articles, and sync across all your devices. Scan and digitize documents, annotate PDFs, set reminders, and use templates for meeting notes, project planning, and personal journals.",
+    "size": 76.5,
+    "reviews": 52000,
+    "ratingAvg": 4.1,
+    "downloads": 100000000,
+    "ratings": [
+      { "name": "1 star", "count": 5200 },
+      { "name": "2 star", "count": 7800 },
+      { "name": "3 star", "count": 10400 },
+      { "name": "4 star", "count": 15600 },
+      { "name": "5 star", "count": 13000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/xqfLfj9w/headspace.webp",
+    "title": "Headspace",
+    "companyName": "Headspace Inc.",
+    "id": 26,
+    "description": "Science-backed meditation and mindfulness app offering guided sessions for stress reduction, better sleep, and focus improvement. Learn meditation fundamentals, track your mindfulness streak, access SOS exercises for anxious moments, and join group meditation sessions.",
+    "size": 123.4,
+    "reviews": 38000,
+    "ratingAvg": 4.9,
+    "downloads": 50000000,
+    "ratings": [
+      { "name": "1 star", "count": 380 },
+      { "name": "2 star", "count": 570 },
+      { "name": "3 star", "count": 1520 },
+      { "name": "4 star", "count": 3800 },
+      { "name": "5 star", "count": 31730 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/yBkY3BKw/yelp.webp",
+    "title": "Yelp",
+    "companyName": "Yelp Inc.",
+    "id": 27,
+    "description": "Local business directory and review platform to find and review restaurants, shops, salons, and services in your area. Filter searches by price, distance, and ratings, make reservations, request quotes, and contribute your own reviews and photos to help others.",
+    "size": 67.8,
+    "reviews": 41000,
+    "ratingAvg": 4.2,
+    "downloads": 100000000,
+    "ratings": [
+      { "name": "1 star", "count": 3280 },
+      { "name": "2 star", "count": 4920 },
+      { "name": "3 star", "count": 8200 },
+      { "name": "4 star", "count": 12300 },
+      { "name": "5 star", "count": 12300 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/sp0zx3Tk/venmo.webp",
+    "title": "Venmo",
+    "companyName": "PayPal, Inc.",
+    "id": 28,
+    "description": "Digital wallet that makes sending and receiving money with friends and family simple and social. Split bills, pay for services, add fun emojis and notes to transactions, and transfer funds to your bank account. Use the Venmo card for purchases anywhere that accepts Visa.",
+    "size": 89.3,
+    "reviews": 33000,
+    "ratingAvg": 4.6,
+    "downloads": 50000000,
+    "ratings": [
+      { "name": "1 star", "count": 990 },
+      { "name": "2 star", "count": 1485 },
+      { "name": "3 star", "count": 2970 },
+      { "name": "4 star", "count": 7425 },
+      { "name": "5 star", "count": 20130 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/67tX365r/goodreads.webp",
+    "title": "Goodreads",
+    "companyName": "Amazon.com",
+    "id": 29,
+    "description": "World's largest community of book lovers where you can track your reading, write reviews, discover new books, and see what friends are reading. Create custom bookshelves, participate in reading challenges, join book clubs, and get personalized recommendations.",
+    "size": 45.6,
+    "reviews": 27000,
+    "ratingAvg": 4.4,
+    "downloads": 10000000,
+    "ratings": [
+      { "name": "1 star", "count": 1080 },
+      { "name": "2 star", "count": 1620 },
+      { "name": "3 star", "count": 3240 },
+      { "name": "4 star", "count": 8100 },
+      { "name": "5 star", "count": 12960 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/HTyv647m/strava.webp",
+    "title": "Strava",
+    "companyName": "Strava, Inc.",
+    "id": 30,
+    "description": "Social fitness network for runners and cyclists to track activities with GPS, analyze performance metrics, and connect with other athletes. Join challenges, compare segment times, create routes, and share your achievements with the global Strava community.",
+    "size": 156.2,
+    "reviews": 25000,
+    "ratingAvg": 4.5,
+    "downloads": 50000000,
+    "ratings": [
+      { "name": "1 star", "count": 750 },
+      { "name": "2 star", "count": 1125 },
+      { "name": "3 star", "count": 2250 },
+      { "name": "4 star", "count": 5625 },
+      { "name": "5 star", "count": 15250 }
+    ]
+  }
+]
