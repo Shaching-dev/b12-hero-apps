@@ -96,7 +96,13 @@ const AppDetails = () => {
         </div>
         <ToastContainer />
       </div>
-
+      <div className="flex justify-center py-10">
+        <a href={"/installed"}>
+          <button className="btn bg-purple-500 font-semibold text-white">
+            See Installed App
+          </button>
+        </a>
+      </div>
       <div className="max-w-6xl mx-auto">
         <h2 className="underline text-2xl font-bold">Ratings :</h2>
         {ratings && ratings.length > 0 && (

@@ -75,6 +75,13 @@ const InstalledApps = () => {
           </p>
         )}
       </div>
+      <div className="py-10 flex justify-center">
+        <a href="/">
+          <button className="btn bg-purple-500 font-semibold text-white">
+            Back to Home
+          </button>
+        </a>
+      </div>
     </div>
   );
 };
