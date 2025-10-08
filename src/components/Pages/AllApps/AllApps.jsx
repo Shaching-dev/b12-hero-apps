@@ -10,7 +10,7 @@ const AllApps = () => {
     <>
       <div className="max-w-6xl mx-auto ">
         <h2 className="font-bold text-xl py-10">({data.length}) Apps Found</h2>
-        <div className="grid grid-cols-4 gap-10 pb-20">
+        <div className="grid grid-cols-1 px-20 md:px-0 md:grid-cols-2 lg:grid-cols-4 gap-10 pb-20">
           {data.map((item) => (
             <ShowAll key={item.id} item={item}></ShowAll>
           ))}

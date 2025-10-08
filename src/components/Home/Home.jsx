@@ -29,14 +29,14 @@ const Home = () => {
             App Store
           </button>
         </div>
-        <span className="flex justify-center">
+        <span className="flex justify-center px-20 md:px-0 lg:px-0">
           <img className="w-150" src={"/hero.png"} alt="" />
         </span>
         <div className="bg-[linear-gradient(125.07deg,#632EE3_0%,#9F62F2_100%)] p-5">
           <h1 className="text-5xl font-bold text-white text-center py-10">
             Trusted By Millions, Built For You
           </h1>
-          <div className="flex justify-center gap-20 text-white">
+          <div className="flex flex-col items-center md:flex-row justify-center gap-20 text-white">
             <div>
               <p className="text-gray-300">Total Downloads</p>
               <h1 className="font-bold text-4xl py-3">29.6M</h1>
@@ -63,7 +63,7 @@ const Home = () => {
         <p className="text-gray-300 text-center py-5">
           Explore All Trending Apps on the Market developed by us
         </p>
-        <div className="grid grid-cols-4 gap-10">
+        <div className="grid grid-cols-1 px-20 md:px-0 lg:px-0 md:grid-cols-2 lg:grid-cols-4 gap-10">
           {data.map((item) => (
             <Apps key={item.id} item={item}></Apps>
           ))}
