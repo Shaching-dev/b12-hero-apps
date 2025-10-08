@@ -12,6 +12,7 @@ import {
   Tooltip,
   ResponsiveContainer,
 } from "recharts";
+import { addToStored } from "../../../Utility/adToApp";
 
 const AppDetails = () => {
   const { id } = useParams();
@@ -23,7 +24,7 @@ const AppDetails = () => {
 
   const singleApp = data.find((app) => app.id === appId);
 
-  const handleBtn = () => {
+  const handleBtn = (id) => {
     if (!install) {
       setInstall(true);
       toast.success("🚀 App installed successfully! You're all set!", {
@@ -38,6 +39,8 @@ const AppDetails = () => {
         theme: "colored",
       });
     }
+
+    addToStored(id);
   };
   const {
     image,
@@ -82,7 +85,7 @@ const AppDetails = () => {
             </span>
           </div>
           <button
-            onClick={handleBtn}
+            onClick={() => handleBtn(id)}
             className={`btn px-6 cursor-pointer py-3 rounded-md text-white font-semibold transition ${
               install
                 ? "bg-gray-400"

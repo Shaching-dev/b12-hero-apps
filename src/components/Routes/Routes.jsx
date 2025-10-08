@@ -44,6 +44,7 @@ const router = createBrowserRouter([
 
       {
         path: "/installed",
+        loader: () => fetch("/allAppsData.json"),
         Component: InstalledApps,
       },
     ],
