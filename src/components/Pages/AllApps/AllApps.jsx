@@ -12,17 +12,14 @@ const AllApps = () => {
   const [searchTimeout, setSearchTimeout] = useState(null);
 
   useEffect(() => {
-    // Clear existing timeout
     if (searchTimeout) {
       clearTimeout(searchTimeout);
     }
 
-    // Set loading state immediately when search changes
     if (search.length > 0) {
       setIsLoading(true);
     }
 
-    // Create new timeout for search
     const timeoutId = setTimeout(() => {
       const filtered = data.filter((item) => {
         const appName = item.title ? item.title.toLowerCase() : "";
@@ -31,11 +28,10 @@ const AllApps = () => {
       });
       setFilteredData(filtered);
       setIsLoading(false);
-    }, 500); // 500ms delay
+    }, 500);
 
     setSearchTimeout(timeoutId);
 
-    // Cleanup function
     return () => {
       if (searchTimeout) {
         clearTimeout(searchTimeout);
@@ -43,7 +39,6 @@ const AllApps = () => {
     };
   }, [search, data]);
 
-  // Handle immediate search when component mounts or data changes
   useEffect(() => {
     setFilteredData(data);
   }, [data]);

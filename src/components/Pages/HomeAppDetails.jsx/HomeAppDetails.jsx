@@ -38,10 +38,6 @@ const HomeAppDetails = () => {
     }
   };
 
-  //   if (!singleApp) {
-  //     return <p className="text-center text-red-500 py-10">App not found!</p>;
-  //   }
-
   const {
     image,
     title,
