@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import { useLoaderData } from "react-router";
+import { NavLink, useLoaderData } from "react-router";
 
 import { getInstalledApp, removeAppFromStore } from "../../../Utility/adToApp";
 import ShowInstalled from "../ShowInstalled/ShowInstalled";
@@ -78,11 +78,11 @@ const InstalledApps = () => {
         )}
       </div>
       <div className="py-10 flex justify-center">
-        <a href="/">
+        <NavLink to={"/"}>
           <button className="btn bg-purple-500 font-semibold text-white">
             Back to Home
           </button>
-        </a>
+        </NavLink>
       </div>
     </div>
   );

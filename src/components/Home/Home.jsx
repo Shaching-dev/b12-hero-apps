@@ -1,5 +1,5 @@
 import React from "react";
-import { Link, useLoaderData } from "react-router";
+import { Link, NavLink, useLoaderData } from "react-router";
 import Apps from "../Pages/Apps";
 
 const Home = () => {
@@ -19,19 +19,19 @@ const Home = () => {
           ideas into digital experiences that truly make an impact.
         </p>
         <div className="flex justify-center gap-10 py-5">
-          <a href="/allApps">
+          <NavLink to={"/allApps"}>
             <button className="btn">
               <img className="w-7" src={"/google-play.png"} alt="" />
               Google Play
             </button>
-          </a>
+          </NavLink>
 
-          <a href="/installed">
+          <NavLink to={"/installed"}>
             <button className="btn">
               <img className="w-7" src={"/apps-icon.png"} alt="" />
               App Store
             </button>
-          </a>
+          </NavLink>
         </div>
         <span className="flex justify-center px-20 md:px-0 lg:px-0">
           <img className="w-150" src={"/hero.png"} alt="" />

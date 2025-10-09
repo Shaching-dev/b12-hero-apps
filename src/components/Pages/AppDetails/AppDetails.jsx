@@ -1,6 +1,6 @@
 import { Download, HandHeart, Link, Star } from "lucide-react";
 import React, { useState } from "react";
-import { useLoaderData, useParams } from "react-router";
+import { NavLink, useLoaderData, useParams } from "react-router";
 import { ToastContainer, toast } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 import {
@@ -97,11 +97,11 @@ const AppDetails = () => {
         <ToastContainer />
       </div>
       <div className="flex justify-center py-10">
-        <a href={"/installed"}>
+        <NavLink to={"/installed"}>
           <button className="btn bg-purple-500 font-semibold text-white">
             See Installed App
           </button>
-        </a>
+        </NavLink>
       </div>
       <div className="max-w-6xl mx-auto">
         <h2 className="underline text-2xl font-bold">Ratings :</h2>
@@ -136,11 +136,11 @@ const AppDetails = () => {
         <p className="text-center px-50 py-10">{description}</p>
       </div>
       <div className="flex justify-center pb-10 ">
-        <a href={"/allApps"}>
+        <NavLink to={"/allApps"}>
           <button className="btn bg-[linear-gradient(125.07deg,#632EE3,#9F62F2_100%)] text-white transition-all duration-300 hover:scale-[1.015] hover:-translate-y-0.5 hover:shadow-md">
             Back to App
           </button>
-        </a>
+        </NavLink>
       </div>
     </div>
   );
